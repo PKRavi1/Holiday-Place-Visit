@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header
+{
+    height:2;
+}
+#MALDIVES {color:black; background-color:rgb(0, 81, 255);}
+      #BALI {color:black; background-color:#1a95ce;}
+      #MARINA {color:black; background-color:bisque;}
+      #JUHU {color:black; background-color:blue;}
+      #MUSSOORIE {color:black; background-color:aqua;}
+      #MUNNAR {color:black; background-color:rgb(89, 230, 33);}
+      #OOTY {color:black; background-color:rgb(190, 238, 18);}
+      #SHILLONG {color:black; background-color:aqua;}
+      #THAR {color:black; background-color:rgb(193, 58, 211);}
+      #GOBI {color:black; background-color:rgb(95, 128, 189);}
+      #MAHINDRA {color:black; background-color:rgba(35, 136, 136, 0.507);}
+      #OBEROI {color:black; background-color:rgb(255, 0, 242);}
+      #BROOKS {color:black; background-color:rgb(109, 130, 161);}
+.banner-info,.banner-image
+{
+    margin:30px 0;
+    width:500px;
+    height:500px;
+}
